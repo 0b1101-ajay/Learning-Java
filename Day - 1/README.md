@@ -11,7 +11,7 @@
 - This text is passed as the parameter to this method in the form of String. 
 - This method prints the text on the console and the **cursor remains at the start of the next line** at the console. 
 - The next printing takes place from next line.
-- It can work without arguments.
+- It **can work without arguments**.
 
 
 ## print():
