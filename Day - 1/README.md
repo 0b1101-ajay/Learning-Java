@@ -12,6 +12,8 @@
 - This method prints the text on the console and the **cursor remains at the start of the next line** at the console. 
 - The next printing takes place from next line.
 - It **can work without arguments**.
+- We can also use this method to print numbers. However, unlike text, we don't put numbers inside double quotes
+- You can also perform mathematical calculations inside the println() method
 
 
 ## print():
@@ -20,3 +22,5 @@
 - This method prints the text on the console and the **cursor remains at the end of the text** at the console. 
 - The next printing takes place from just here.
 - This method **only works with argument**, otherwise it is throws syntax error.
+- We can also use this method to print numbers. However, unlike text, we don't put numbers inside double quotes
+- You can also perform mathematical calculations inside the print() method
