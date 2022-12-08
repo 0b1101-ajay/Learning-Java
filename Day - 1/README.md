@@ -24,3 +24,14 @@
 - This method **only works with argument**, otherwise it is throws syntax error.
 - We can also use this method to print numbers. However, unlike text, we don't put numbers inside double quotes
 - You can also perform mathematical calculations inside the print() method
+
+
+## Comments
+- Comments can be used to explain Java code, and to make it more readable. It can also be used to prevent execution when testing alternative code.
+  ### Single-line Comments
+    - Single-line comments start with two forward slashes (//).
+    - Any text between // and the end of the line is ignored by Java (will not be executed).
+  
+  ### Multi-line Comments
+    - Multi-line comments start with /* and ends with */.
+    - Any text between /* and */ will be ignored by Java.
